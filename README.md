@@ -2,6 +2,7 @@
 
 ## Project description
 [link to public tableau visialization](https://public.tableau.com/app/profile/allison.everton/viz/AmazonConsumerHabitsSurvey/Sheet1#1) 
+
 This document is a reposition for the class project of MGT 4250 Fall 2023 at Elon University. This projects analyzes an data set from an Amazon customer survey.   
 
 ### Questions of interest
