@@ -23,7 +23,6 @@ Out of the 24 variables in this dataset, this analysis uilizes the following:
 5. Browsing_Frequency (str): How often do you browse Amazon's website or app?
 6.Cart_Abandonment_Factors (str): What factors influence your decision to abandon a purchase in your cart?
 7.Improvement_Areas (str): Are there any areas where you think Amazon can improve?
-
 ## Interpreting Visualizations
 
 ### bar chart
