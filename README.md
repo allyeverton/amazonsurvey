@@ -26,7 +26,14 @@ Out of the 24 variables in this dataset, this analysis uilizes the following:
 
 ## Interpreting Visualizations
 
-![image](https://github.com/allyeverton/mgt4250test/assets/152214878/d5e9e277-47e6-4bef-98e2-74d6f4548c36)
+### bar chart
+![image](https://github.com/allyeverton/amazonsurvey/assets/152214878/4fa7ae18-9c98-457a-be08-cd71c00cc2b2)
+
+### stacked bar chart
+![image](https://github.com/allyeverton/amazonsurvey/assets/152214878/7e072f8c-16b3-4f9a-80aa-ff79b3443201)
+
+### heat map
+![image](https://github.com/allyeverton/amazonsurvey/assets/152214878/be9caaa4-d520-4821-b420-62cdc6505bbf)
 
 
 ## Discussion & Summary
