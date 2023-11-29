@@ -39,3 +39,4 @@ The heat map shows the largest categories of reasons for cart abandonment and ar
 
 ## Discussion & Summary
 
+[article](https://hospitalityinsights.ehl.edu/understanding-consumer-behavior#:~:text=Understanding%20consumer%20behavior%20is%20a%20valuable%20tool%20for%20product%20and,services%20that%20meet%20those%20needs.)
