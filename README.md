@@ -27,7 +27,7 @@ Out of the 24 variables in this dataset, this analysis uilizes the following:
 
 ### bar chart
 ![image](https://github.com/allyeverton/amazonsurvey/assets/152214878/4fa7ae18-9c98-457a-be08-cd71c00cc2b2)
-
+The bar chart shows the average age of each combination of browsing and purchase frequency. Similar to the previous visualization, we can use this to identify what age group to target when looking to close the browsing and purchasing gap. The biggest thing that jumps out is that there is no clear pattern between age group and the browsing and purchasing frequency. The group that we do want to focus on is people who browse multiple times a day but purchase very infrequently (less than once a month). The average age for that group is around 26. We can use this information to provide targeted advertisements to young adults or send out more surveys to just that age group to understand why they are not purchasing more.
 
 ### stacked bar chart
 ![image](https://github.com/allyeverton/amazonsurvey/assets/152214878/7e072f8c-16b3-4f9a-80aa-ff79b3443201)
