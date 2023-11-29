@@ -3,7 +3,7 @@
 ## Project description
 [link to public tableau visialization](https://public.tableau.com/app/profile/allison.everton/viz/AmazonConsumerHabitsSurvey/Sheet1#1) 
 
-This document is a reposition for the class project of MGT 4250 Fall 2023 at Elon University. This projects analyzes an data set from an Amazon customer survey.   
+This document is a repository for the class project of MGT 4250 Fall 2023 at Elon University. This projects analyzes an data set from an Amazon customer survey.   
 
 ### Questions of interest
 The interets of this analysis is the purchasing and browsing tendency of shoppers on Amazon. 
@@ -27,6 +27,7 @@ Out of the 24 variables in this dataset, this analysis uilizes the following:
 
 ### bar chart
 ![image](https://github.com/allyeverton/amazonsurvey/assets/152214878/4fa7ae18-9c98-457a-be08-cd71c00cc2b2)
+
 
 ### stacked bar chart
 ![image](https://github.com/allyeverton/amazonsurvey/assets/152214878/7e072f8c-16b3-4f9a-80aa-ff79b3443201)
