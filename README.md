@@ -58,10 +58,26 @@ The article then describes factors that affect consumer decision making, types o
 [Full Questions and Answer Link](https://chat.openai.com/share/2bd2edb2-38bd-4aed-b210-2d85b1d06667)
 
 #### How can we analyze consumer behavior to increase consumer purchases?
-Customer Survey and Feedback was identified as a method which aligns with our analysis and the artices suggestions on data collection. 
-
-Limited-Time Offers was also identified as a method to ecourage increase in consumer action. In our bar charts visualizations we identified a consumer segment that this method could be implemented on to increase their purchase frequency to meet their browsing frequency.
+Strategies to understand consumer behavior:
+- market research
+- customer survey and feedback
+- data analytics
+- social media monitoring
+- customer segmentation
+- limited time offers
+  ..... 
 
 #### What is the main cause of a consumer to not make a purchase?
 
-Common factors that contribute to a customer not making a purchase (in our analysis we looked at cart abandonment factors and areas of improvement) 
+Common factors that contribute to a customer not making a purchase:
+- price concerns
+- distrust and lack of credibility
+- poor customer reviews
+- shipping costs and time
+- competetive options
+  .....
+
+### Connecting Article, ChatGPT, and our project:
+Customer Survey and Feedback was identified as a method which aligns with our analysis and the artices suggestions on data collection. 
+
+Limited-Time Offers was also identified as a method to ecourage increase in consumer action. In our bar charts visualizations we identified a consumer segment that this method could be implemented on to increase their purchase frequency to meet their browsing frequency.
