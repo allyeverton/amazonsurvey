@@ -43,6 +43,7 @@ The heat map shows the largest categories of reasons for cart abandonment and ar
 
 ### Article
 In an [article](https://hospitalityinsights.ehl.edu/understanding-consumer-behavior#:~:text=Understanding%20consumer%20behavior%20is%20a%20valuable%20tool%20for%20product%20and,services%20that%20meet%20those%20needs.) by Ana McFee from EHL, there is a discussion surrounding consumer behavior and how that can lead and influence business decisions. She asks the question "Why is Consumer Behavior so important?". To answer that question she provides a list of improvements to a business:
+
 - improve marketing and communication
 - improve customer retention rates
 - increase customer loyalty
