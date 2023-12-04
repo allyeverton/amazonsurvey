@@ -81,3 +81,5 @@ Common factors that contribute to a customer not making a purchase:
 Customer Survey and Feedback was identified as a method which aligns with our analysis and the artices suggestions on data collection. 
 
 Limited-Time Offers was also identified as a method to ecourage increase in consumer action. In our bar charts visualizations we identified a consumer segment that this method could be implemented on to increase their purchase frequency to meet their browsing frequency.
+
+Price concerns being listed on ChatGPT first suggests that it is a large factor that goes into a purchase. Based on our heat map we can see that price is the main factor in cart abandonment for the Amazon consumers. Increasing communication with customers and loyalty can help justify the higher price which the article suggests is why understanding customer behavior is so important.
