@@ -50,6 +50,7 @@ In an [article](https://hospitalityinsights.ehl.edu/understanding-consumer-behav
 - increase ability to stay relevant
 - increase sales
 - innovate attractive new services and products
+
 The article then describes factors that affect consumer decision making, types of consumer behavior, and ways for businesses to collect data on consumer bahavior.
 
 ### ChatGPT
