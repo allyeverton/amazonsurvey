@@ -10,6 +10,8 @@ The interets of this analysis is the purchasing and browsing tendency of shopper
 - How can we analyze consumer behavior to increase consumer purchases?
 - What is the main cause of a consumer to not make a purchase?
 
+These questions are important for developing marketing campaigns that target a specific group with the goal of increasing revenues. Amazon can identify new growth opportunities and create targeted ad campaigns. A [reference](https://www.linkedin.com/pulse/beyond-borders-why-consumer-behaviour-market-trends-important/) is included on why this project has important implication and why Amazon and all businesses should be analyzing consumer behavior.
+
 ## Data Description
 This data was found from Kaggle and converted from a csv file to an excel file to be used in Tableau. Access the Kaggle site [here](https://www.kaggle.com/datasets/swathiunnikrishnan/amazon-consumer-behaviour-dataset). 
 
@@ -39,4 +41,17 @@ The heat map shows the largest categories of reasons for cart abandonment and ar
 
 ## Discussion & Summary
 
-[article](https://hospitalityinsights.ehl.edu/understanding-consumer-behavior#:~:text=Understanding%20consumer%20behavior%20is%20a%20valuable%20tool%20for%20product%20and,services%20that%20meet%20those%20needs.)
+### Article
+In an [article](https://hospitalityinsights.ehl.edu/understanding-consumer-behavior#:~:text=Understanding%20consumer%20behavior%20is%20a%20valuable%20tool%20for%20product%20and,services%20that%20meet%20those%20needs.) by Ana McFee from EHL, there is a discussion surrounding consumer behavior and how that can lead and influence business decisions. She asks the question "Why is Consumer Behavior so important?". To answer that question she provides a list of improvements to a business:
+- improve marketing and communication
+- improve customer retention rates
+- increase customer loyalty
+- better predit trends in consumer behavior
+- increase ability to stay relevant
+- increase sales
+- innovate attractive new services and products
+The article then describes factors that affect consumer decision making, types of consumer behavior, and ways for businesses to collect data on consumer bahavior.
+
+### ChatGPT
+
+
