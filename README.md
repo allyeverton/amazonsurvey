@@ -23,9 +23,8 @@ Out of the 24 variables in this dataset, this analysis uilizes the following:
 3. Purchase_Frequency (str): How frequently do you make purchases on Amazon?
 4. Purchase_Categories (str): What product categories do you typically purchase on Amazon?
 5. Browsing_Frequency (str): How often do you browse Amazon's website or app?
-
-6.Cart_Abandonment_Factors (str): What factors influence your decision to abandon a purchase in your cart?
-7.Improvement_Areas (str): Are there any areas where you think Amazon can improve?
+6. Cart_Abandonment_Factors (str): What factors influence your decision to abandon a purchase in your cart?
+7. Improvement_Areas (str): Are there any areas where you think Amazon can improve?
 ## Interpreting Visualizations
 
 ### Bar Chart
