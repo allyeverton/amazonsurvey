@@ -29,7 +29,7 @@ Out of the 24 variables in this dataset, this analysis uilizes the following:
 
 ### Bar Chart
 ![image](https://github.com/allyeverton/amazonsurvey/assets/152214878/4fa7ae18-9c98-457a-be08-cd71c00cc2b2)
-The bar chart shows the average age of each combination of browsing and purchase frequency. Similar to the previous visualization, we can use this to identify what age group to target when looking to close the browsing and purchasing gap. The biggest thing that jumps out is that there is no clear pattern between age group and the browsing and purchasing frequency. The group that we do want to focus on is people who browse multiple times a day but purchase very infrequently (less than once a month). The average age for that group is around 26. We can use this information to provide targeted advertisements to young adults or send out more surveys to just that age group to understand why they are not purchasing more.
+The bar chart shows the average age of each combination of browsing and purchase frequency. We can use this to identify what age group to target when looking to close the browsing and purchasing gap. The biggest thing that jumps out is that there is no clear pattern between age group and the browsing and purchasing frequency. The group that we do want to focus on is people who browse multiple times a day but purchase very infrequently (less than once a month). The average age for that group is around 26. We can use this information to provide targeted advertisements to early adults or send out more surveys to just that age group to understand why they are not purchasing more.
 
 ### Stacked Bar Chart
 ![image](https://github.com/allyeverton/amazonsurvey/assets/152214878/7e072f8c-16b3-4f9a-80aa-ff79b3443201)
@@ -80,6 +80,6 @@ Common factors that contribute to a customer not making a purchase:
 ### Connecting Article, ChatGPT, and our project:
 Customer Survey and Feedback was identified as a method which aligns with our analysis and the artices suggestions on data collection. 
 
-Limited-Time Offers was also identified as a method to ecourage increase in consumer action. In our bar charts visualizations we identified a consumer segment that this method could be implemented on to increase their purchase frequency to meet their browsing frequency.
+Limited-Time Offers was also identified as a method to encourage increase in consumer action. In our bar charts visualizations we identified a consumer segment that this method could be implemented on to increase their purchase frequency to meet their browsing frequency.
 
 Price concerns being listed on ChatGPT first suggests that it is a large factor that goes into a purchase. Based on our tree map we can see that price is the main factor in cart abandonment for the Amazon consumers. Increasing communication with customers and loyalty can help justify the higher price which the article suggests is why understanding customer behavior is so important.
